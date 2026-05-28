@@ -1,6 +1,6 @@
 package corejava.day01;
 
-public class reversestring {
+public class ReverseString {
 
 	public static void main(String[] args) {
 		String str = "Java";

@@ -1,6 +1,6 @@
 package corejava.day01;
 
-public class palindromecheck {
+public class PalindromeCheck {
 
 	public static void main(String[] args) {
 		String str = "Selenium";

@@ -1,6 +1,6 @@
 package corejava.day01;
 
-public class largestnumber {
+public class LargestNumber {
 
 	
 	public static void main(String[] args) {

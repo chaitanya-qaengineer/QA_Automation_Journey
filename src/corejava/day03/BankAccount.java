@@ -19,18 +19,12 @@ package corejava.day03;
 
 	}
 	
-	
-	
-	
-
-	public static void main(String[] args) {
+	    public static void main(String[] args) {
 		BankAccount bank = new BankAccount();
 		bank.deposit(5000);
 		bank.withdraw(2000);
 		bank.checkBalance();
 		
-		
-
-	}
+		}
 
 }
